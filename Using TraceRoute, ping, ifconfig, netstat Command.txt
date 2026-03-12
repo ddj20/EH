@@ -1,0 +1,5 @@
+tracert www.facebook.com
+
+ping (all the ip address)
+
+Netstat 
